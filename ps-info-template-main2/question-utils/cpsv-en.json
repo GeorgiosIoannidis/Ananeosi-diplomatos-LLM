@@ -1,0 +1,93 @@
+{
+    "PublicService": {
+        "name": "Renewal of driving license (all categories)",
+        "evidence": [
+            {
+                "id": 1,
+                "evs": [
+                    {
+                        "id": "ev1",
+                        "type": "Evidence",
+                        "name": "Proof of habitual residence or student status",
+                        "description": "Proof that the applicant has their habitual residence in Greece or has the status of a student/pupil for at least six (6) months in Greece before the date of submitting the application and the supporting documents."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "evs": [
+                    {
+                        "id": "ev2",
+                        "type": "Evidence",
+                        "name": "Driving license",
+                        "description": "The applicant must hold a valid Greek or EU Member State driving license."
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "evs": [
+                    {
+                        "id": "ev3",
+                        "type": "Evidence",
+                        "name": "Taxisnet Credentials",
+                        "description": "For the digital submission of the application, the applicant must hold Taxisnet credentials."
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "evs": [
+                    {
+                        "id": "ev4",
+                        "type": "Evidence",
+                        "name": "Medical Health Certificates",
+                        "description": "Applicants and drivers must be examined by doctors of the following specialties: Pathologist or related specialties, Ophthalmologist, ENT specialist (for persons over 80 years old), and Neurologist or Psychiatrist (for persons over 80 years old). Doctors issue certificates marked as 'FIT' or 'UNFIT'."
+                    }
+                ]
+            }
+        ],
+        "criterion_requirments": [
+            {
+                "id": "1",
+                "name": "Copy of ID card or valid Greek passport."
+            },
+            {
+                "id": "2",
+                "name": "Photocopy of a valid public document proving habitual residence in Greece, if the applicant is not a Greek citizen."
+            },
+            {
+                "id": "3",
+                "name": "Original certificate from a school verifying student or pupil status."
+            },
+            {
+                "id": "4",
+                "name": "One (1) recent passport-type photograph."
+            },
+            {
+                "id": "5",
+                "name": "At least two (2) medical examination health certificates."
+            },
+            {
+                "id": "6",
+                "name": "Responsible Declaration including statements regarding habitual residence, home address, Tax Identification Number (TIN), non-possession of another driving license, desire to include blood type, and the number of the current driving license."
+            },
+            {
+                "id": "7",
+                "name": "Supplementary Responsible Declaration."
+            },
+            {
+                "id": "8",
+                "name": "Driving License Printing Application."
+            },
+            {
+                "id": "9",
+                "name": "Electronic Fee with code 3697, amount €105 (subcategory COST)."
+            },
+            {
+                "id": "10",
+                "name": "Authorization or notarial power of attorney for a third party."
+            }
+        ]
+    }
+}

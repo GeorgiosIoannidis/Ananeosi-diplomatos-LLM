@@ -1,0 +1,45 @@
+[
+  {
+    "id": 0,
+    "question": "Are you a Greek citizen or a citizen of an EU Member State?",
+    "options": [
+      "Yes, I am a Greek citizen.",
+      "Yes, I am a citizen of an EU Member State.",
+      "No, I am not an EU citizen."
+    ]
+  },
+  {
+    "id": 1,
+    "question": "Have you been residing in Greece for at least six (6) months, or do you have student/pupil status in Greece for that period?",
+    "options": [
+      "Yes, I have been residing in Greece for at least six months.",
+      "Yes, I have student or pupil status for at least six months.",
+      "No, I have not been residing or studying in Greece for six months."
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Do you hold a valid Greek or European driving license?",
+    "options": [
+      "Yes, I have a valid driving license.",
+      "No, my license has expired or been revoked."
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Do you have active personal Taxisnet credentials for submitting the application digitally?",
+    "options": [
+      "Yes, I have Taxisnet credentials.",
+      "No, I do not have Taxisnet credentials."
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Have you been examined in the last six (6) months by the required doctors (e.g., Pathologist, Ophthalmologist, ENT specialist, or Neurologist/Psychiatrist if you are over 80 years old) regarding your health condition?",
+    "options": [
+      "Yes, I have been examined and the doctors declared me 'FIT'.",
+      "Yes, I have been examined but I do not yet have all the results.",
+      "No, I have not undergone medical examinations in the last six months."
+    ]
+  }
+]
