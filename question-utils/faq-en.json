@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "question": "What is the validity period of the new license?",
+    "answer": "15 years for ages under 65, 3 years for those over 65, and 2 years for those over 80."
+  },
+  {
+    "id": 1,
+    "question": "Is the license renewal process provided digitally?",
+    "answer": "The entire process is provided digitally."
+  },
+  {
+    "id": 2,
+    "question": "How recent should the doctor's certificate be?",
+    "answer": "It must have been issued within the last 6 months."
+  },
+  {
+    "id": 3,
+    "question": "How do I receive my license in physical form?",
+    "answer": "By explicitly requesting it in the application, with the delivery method either through a Citizen Service Center (KEP) or visit https://www.pkm.gov.gr/org_chart/geniki-dieythynsi-metaforon-kai-epikoinonion/ by appointment."
+  }
+]
